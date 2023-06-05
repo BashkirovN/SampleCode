@@ -1,6 +1,6 @@
 /*
   Hi! You are looking at a sample of my working code. It's not super clean or well documented
-  but it works and that's what I care the most about given my super limited time.
+  but it works and that's what I care the most about given my super limited time constraints.
   
   Some background:
     The program is a part of SMS sending feature of the CRM that I developed for a small moving company.
